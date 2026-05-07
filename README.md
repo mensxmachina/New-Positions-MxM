@@ -5,15 +5,15 @@
 ## 🚀 Exciting EIC Transition / Start up project on a new AI product
 
 ### About the Project
-Get on board in launching a new startup company to create an exciting new AI product in causal analysis and machine learning, funded by an EIC Transition grant. The startup aims to bring the product to the market and achieve product-market fit.
+Get on board in launching a new startup to create the first AI product in causal analysis and machine learning, funded by an EIC Transition grant. The startup aims to bring the product to the market and achieve product-market fit.
 
 ### About Us
 We are an internationally recognized research group from the University of Crete in automated machine learning and causal discovery (ERC Consolidator Grant, ERC Proof-of-Concept, listed in the Stanford list of top 2% researchers). 
 
-We have prior successes in commercialization of AI products with our university spin-off (Greek Spin-Off of the Year 2021), attracting international investments, and building SaaS products with more than 10,000 registered users. You will be joining an existing multidisciplinary team to turn research into commercially successful products.
+We have prior successes in commercialization of AI products with our university tools (Greek Spin-Off of the Year 2021), attracting international investments, and building SaaS products with more than 10,000 registered users. You will be joining an existing multidisciplinary team to turn research into commercial success.
 
 ### What We are looking for
-We are building a strong team to develop our groundbreaking AI product. We are currently hiring for several key positions to drive this innovation forward. Follow this [link](https://github.com/mensxmachina/New-Positions-MxM) to see position details 
+We are building a strong team to develop our groundbreaking AI product. We are currently hiring for several key positions to drive this innovation forward. Check descriptions above to see each position's details.
 
 ## 🌍 What We Offer
 - Opportunity to work on cutting-edge research and development of technology with real-world impact  
