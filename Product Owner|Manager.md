@@ -1,6 +1,6 @@
 # Expression of Interest for Product owner/manager Position (EIC Transition Project)
 
-## Role Overview
+## Role Overview 
 We are building an agentic data analytics platform where AI agents orchestrate data processing, machine learning, and user workflows.
 
 We are looking for a Product Owner / Product Manager to define, prioritize, and drive the product—ensuring tight alignment between user needs, system capabilities, and engineering execution.
