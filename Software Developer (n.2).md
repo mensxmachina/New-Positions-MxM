@@ -1,5 +1,5 @@
 # Expression of Interest for Software Developer (n.2) Position (EIC Transition Project)
-
+ 
 ## Role Overview
 We are looking for an engineer to bridge the gap between ML research and production systems. You will integrate, optimize, and operationalize machine learning components within a larger agentic analytics platform.
 
