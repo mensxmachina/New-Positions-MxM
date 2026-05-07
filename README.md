@@ -10,7 +10,7 @@ Get on board in launching a new startup to create the first AI product in causal
 ### About Us
 We are an internationally recognized research group from the University of Crete in automated machine learning and causal discovery (ERC Consolidator Grant, ERC Proof-of-Concept, listed in the Stanford list of top 2% researchers). 
 
-We have prior successes in commercialization of AI products with our university tools (Greek Spin-Off of the Year 2021), attracting international investments, and building SaaS products with more than 10,000 registered users. You will be joining an existing multidisciplinary team to turn research into commercial success.
+We have prior successes in commercialization of AI tools with our university Spin-ff (Greek Spin-Off of the Year 2021), attracting international investments, and building SaaS products with more than 10,000 registered users. You will be joining an existing multidisciplinary team to turn research into commercial success.
 
 ### What We are looking for
 We are building a strong team to develop our groundbreaking AI product. We are currently hiring for several key positions to drive this innovation forward. Check descriptions above to see each position's details.
