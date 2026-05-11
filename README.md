@@ -33,7 +33,7 @@ Please submit:
 - CV  
 - Short cover letter outlining your interest and relevant experience  
 
-**📅 Deadline:** 30/05/2026  
+**📅 Deadline:** 15/06/2026  
 **📧 Contact:** mensxmachina@gmail.com  
 
 ## 🤝 Equal Opportunity
